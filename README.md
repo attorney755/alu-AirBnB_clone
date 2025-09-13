@@ -78,5 +78,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Author :black_nib:
 
-* **Irakiza Gaius** <[Arnold MUTARA](https://github.com/AceArnold)> <.........>
-* **Loue Sauveur Christian** <[Attorney Valois NIYIGABA](https://github.com/attorney755)> <v.niyigaba@alustudent.com>
+* **Arnold MUTARA** <[Arnold MUTARA](https://github.com/AceArnold)> <.........>
+* **Attorney Valois NIYIGABA** <[Attorney Valois NIYIGABA](https://github.com/attorney755)> <v.niyigaba@alustudent.com>
